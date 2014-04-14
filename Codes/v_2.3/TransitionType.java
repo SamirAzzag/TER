@@ -1,0 +1,4 @@
+
+public enum TransitionType {
+	INTERN, CALL, RETURN, CALL_CALL, CALL_RETURN, RETURN_RETURN, RETURN_CALL;
+}

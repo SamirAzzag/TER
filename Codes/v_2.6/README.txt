@@ -1,0 +1,1 @@
+- Simple correction de la classe AddAutomate. Dans la version 2.5 on pouvait appuyer sur open lors de la selection d'un fichier même si aucun fichier n'avait été selectionné. Ainsi cette correction permet d'éviter d'avoir la variable à null et de faire planter le programme.
